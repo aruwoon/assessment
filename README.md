@@ -1,2 +1,2 @@
-# assessment
-あなたのいいところ診断ゲーム
+# assessment2
+前世診断
